@@ -1,0 +1,14 @@
+D:\ThuatToan\bai3\bai3\bin\Debug\bai3.exe.config
+D:\ThuatToan\bai3\bai3\bin\Debug\bai3.exe
+D:\ThuatToan\bai3\bai3\bin\Debug\bai3.pdb
+D:\ThuatToan\bai3\bai3\obj\Debug\bai3.csproj.AssemblyReference.cache
+D:\ThuatToan\bai3\bai3\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+D:\ThuatToan\bai3\bai3\obj\Debug\bai3.exe
+D:\ThuatToan\bai3\bai3\obj\Debug\bai3.pdb
+D:\c#_turial\sudoku\bai3\bai3\bin\Debug\bai3.exe.config
+D:\c#_turial\sudoku\bai3\bai3\bin\Debug\bai3.exe
+D:\c#_turial\sudoku\bai3\bai3\bin\Debug\bai3.pdb
+D:\c#_turial\sudoku\bai3\bai3\obj\Debug\bai3.csproj.AssemblyReference.cache
+D:\c#_turial\sudoku\bai3\bai3\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+D:\c#_turial\sudoku\bai3\bai3\obj\Debug\bai3.exe
+D:\c#_turial\sudoku\bai3\bai3\obj\Debug\bai3.pdb
